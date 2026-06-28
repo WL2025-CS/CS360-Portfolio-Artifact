@@ -1,4 +1,4 @@
-Weight Tracker App — CS-360 Portfolio Artifact
+Weight Tracker App - CS-360 Portfolio Artifact
 App Summary
 
 Weight Tracker is an Android app that helps users log their daily weight, set a goal weight, and receive an SMS notification when they hit it. It supports secure account creation and login, with all data stored privately on-device using SQLite - no internet connection required.
